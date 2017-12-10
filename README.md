@@ -1,2 +1,2 @@
 # mrliuruining.github.com
-www.liuruining.cc
+This is a file for text.
